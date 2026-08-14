@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Choose Your Weapon 3 Web
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Choose%20Your%20Weapon%203%20Web&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Choose Your Weapon 3 Web Header Banner" />
+
+  <h1>🚀 Choose Your Weapon 3 Web</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge" alt="Language: JavaScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/choose-your-weapon-3-web"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Choose Your Weapon 3 Web** delivers a fast, responsive, and cross-platform browser experience built with **JavaScript** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `JavaScript`
@@ -32,63 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Choose Your Weapon 3 Web - Play Online for Free
-
-## Overview
-Play Choose Your Weapon 3 Web online for free. Unblocked and available on all devices. Experience the best Choose Your Weapon 3 Web gameplay now!
-
-### Game Details & Guide
-Game Overview
-
-
-Choose Your Weapon 3 Web is a browser-based game that challenges players to navigate through different levels, each representing a unique environment with various obstacles and enemies. The ultimate goal is to reach the exit while avoiding or defeating all the enemies and collecting resources.
-
-How to Play (
-Controls and Objective
-)
-• Use the mouse to control the character's movement and shooting.
-• Click on enemy icons to attack them.
-• Collect resources (e.g., coins, power-ups) by clicking on them.
-• Manage your ammo and health bars carefully.
-• The game is divided into levels, each with its own challenges and objectives.
-
-Tips and Tricks for Success (
-Tips and Tricks
-)
-• Use the environment to your advantage: explore different paths and use items strategically to gain an upper hand.
-• Upgrade your character's equipment and abilities as you progress through the game.
-• Focus on collecting resources and ammo to maintain a healthy health bar.
-• Pay attention to enemy patterns and try to anticipate their movements.
-• Use power-ups to boost your chances of success.
-
-Why You Should Play It (
-Why You Should Play
-)
-• Engaging gameplay: Choose Your Weapon 3 Web offers a thrilling experience with challenging levels, varied obstacles, and exciting enemies.
-• Low system requirements: The game is accessible on most modern browsers, making it easy to play on any device.
-• Social features: Share your progress, compete with friends, or join challenges to make the game more enjoyable.
-• Educational value: Learning about different environmental scenarios, enemy behaviors, and resource management can be beneficial for problem-solving skills.
-• Fun and relaxing: The game's colorful graphics, intuitive controls, and soothing music create a calming atmosphere perfect for playing on-the-go.
-
-## Technical Specifications
-- **Technology**: Flash (Emulated by Ruffle)
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
